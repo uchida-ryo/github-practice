@@ -7,3 +7,6 @@ A repository for practicing GitHub operations.
 
 - [Ruby](https://www.ruby-lang.org/ja/)
 - [Ruby on Rails](https://rubyonrails.org/)
+
+- [PHP](https://www.php.net/)
+- [Laravel](https://laravel.com/)
