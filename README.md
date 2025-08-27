@@ -10,3 +10,6 @@ A repository for practicing GitHub operations.
 
 - [PHP](https://www.php.net/)
 - [Laravel](https://laravel.com/)
+
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Bootstrap](https://getbootstrap.com/)
