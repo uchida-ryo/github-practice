@@ -10,4 +10,9 @@ RSpec.describe Calculator do
     calc = Calculator.new
     expect(calc.sub(2, 3)).to eq(-1)
   end
+
+  it "muls two numbers" do
+    calc = Calculator.new
+    expect(calc.mul(2, 3)).to eq(6)
+  end
 end
