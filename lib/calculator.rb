@@ -6,4 +6,8 @@ class Calculator
   def sub(a, b)
     a - b
   end
+
+  def mul(a, b)
+    a * b
+  end
 end
